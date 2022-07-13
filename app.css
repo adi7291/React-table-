@@ -1,0 +1,21 @@
+table{
+    border:2px solid gray;
+    border-collapse: collapse;
+    width:75%;
+    margin-left: 50px;
+}
+td,th{
+    border:2px solid gray ;
+    padding:3px;
+}
+td{
+    text-align: center;
+}
+
+th{
+    background-color: darkblue;
+    color:red
+}
+td{
+    background-color: lightblue;
+}
